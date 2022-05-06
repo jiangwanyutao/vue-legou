@@ -1,0 +1,69 @@
+.newgoods{
+    background: #f4f4f4;
+     .nav{
+    width: 100%;
+    height: 47px;
+    margin-bottom: 3px;
+    background-color: #fff;
+    .nav-v{
+      display: inline-block;
+      width: 40%;
+      text-align: left;
+      line-height: 47px;
+      font-size: 14px;
+      color: #1989fa;
+    }
+    .logo{
+      display: inline-block;
+      width: 50%;
+      text-align: left;
+      line-height: 30px;
+      font-weight: 500;
+      font-size: 16px;
+    }
+  }
+    .pic{
+        width: 100px;
+    }
+    .picc{
+        margin: 7.5px 0 11px 0;
+        text-align: center;
+        padding: 0 10px;
+        font-size: 12px;
+    }
+    .price{
+        text-align: center;
+        font-size: 15px;
+        color: #b4282d;
+    }
+    .top{
+        display: flex;
+        height: 40px;
+        justify-content: space-around;
+        align-items: center;
+        background: #fff;
+        margin-bottom: 5px;
+    }
+        .iconBox{
+            display: flex;
+            flex-direction: column;
+        }
+        .on{
+            color: red;
+        }
+        //价格盒子
+        #price{
+            display: flex;
+            align-items: center
+            
+          }
+        //   首屏图片
+        .banner{
+              width: 100%;
+                height:139px;
+                img{
+                    width: 100%;
+                    height: 100%;
+                }
+        }
+    }
