@@ -48,6 +48,7 @@ vue、vuex、vue-router、axios、async/await、vant、百度地图
 ### 1.首页、搜索页、定位页展示
 
 ![](./mdImages/首页、搜索页、定位页展示.gif)
+![输入图片说明](http://ch.jwyt.cloud/view.php/3400c88d4256da89446ceac1be9327d1.png)
 
 ### 2、专题页及详情展示
 
